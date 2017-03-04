@@ -1,12 +1,13 @@
 # ZingMp3 Downloader
-Instruction using Python on Linux:
+Instruction using on Linux:
+  1. Make sure you installed Python.
 
-  1. To make `zingmp3_downloader.sh` running everywhere, run following code:
+  2. To make `zingmp3_downloader.sh` running everywhere, run following code:
     ```sh
     $ sudo ln -s path/to/zingmp3_downloader.sh /usr/local/bin/zingmp3_downloader
     ```
 
-  2. Now to download any song, type following command:
+  3. Now to download any song, type following command:
     ```sh
     $ zingmp3_downloader song_url [quality]
     ```
