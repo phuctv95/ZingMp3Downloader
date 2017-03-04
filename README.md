@@ -1,4 +1,4 @@
-Instruction using on Linux:
+Instruction using Python on Linux:
 
   1. To make `zingmp3_downloader.sh` running everywhere, run following code:
     ```sh
