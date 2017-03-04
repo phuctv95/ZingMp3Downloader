@@ -2,7 +2,7 @@ Instruction using on Linux:
 
   1. To make `zingmp3_downloader.sh` running everywhere, run following code:
     ```sh
-    $ sudo ln -s path/to/zingmp3_downloader.sh /usr/local/bin/zingmp3_downloader`
+    $ sudo ln -s path/to/zingmp3_downloader.sh /usr/local/bin/zingmp3_downloader
     ```
 
   2. Now to download any song, type following command:
