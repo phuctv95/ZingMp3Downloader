@@ -1,3 +1,4 @@
+# ZingMp3 Downloader
 Instruction using Python on Linux:
 
   1. To make `zingmp3_downloader.sh` running everywhere, run following code:
