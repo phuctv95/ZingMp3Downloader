@@ -1,0 +1,13 @@
+--- download zing mp3 music ---
+
+require:
+	input:	link, quality (128 or 320)
+	output:	file downloaded current dir
+
+steps:
+	- read arguments
+	- get id, api link
+	- get json source from api link, by id
+	- read json content
+	- get link download
+	- download
