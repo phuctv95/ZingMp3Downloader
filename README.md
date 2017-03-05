@@ -10,5 +10,6 @@
     - `song_url` is the url to the ZingMp3 song, e.g. http://mp3.zing.vn/bai-hat/Oh-NaNa-KARD/ZW78BOO7.html
     - `quality` is either 128 or 320 (kbps). Leave it blank will download in 128kbps.
   Downloaded file will save to ~/Downloads/
+
 ## References
 - https://kipalog.com/posts/Nghich-ngom--Lay-link-download-320kbps---lossless-tu-Mp3-Zing
