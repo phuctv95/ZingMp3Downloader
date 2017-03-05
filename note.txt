@@ -2,7 +2,7 @@
 
 require:
 	input:	link, quality (128 or 320)
-	output:	file downloaded current dir
+	output:	file downloaded
 
 steps:
 	- read arguments
