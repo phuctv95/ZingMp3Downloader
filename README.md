@@ -2,7 +2,7 @@
 Instruction using on Linux:
   1. Make sure you installed Python.
 
-  2. Run `installer.sh` will make program running everywhere (installer will link program to `/usr/local/bin`, so you need to type the password for the accessing).
+  2. Run `installer.sh` will make program running everywhere (installer will link program to `/usr/local/bin`, so you need to type the password for the linking).
   
   3. Now to download any song, type following command:
     ```sh
