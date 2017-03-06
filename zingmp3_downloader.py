@@ -81,11 +81,11 @@ print ""
 
 # Get link download >> download_link
 if download_quality == "128" :
-    download_link = json_content["link_download"]["128"]
+    download_link = json_content["source"]["128"]
     print "Download link: \t\t" + download_link
     print ""
 elif download_quality == "320" :
-    download_link = json_content["link_download"]["320"]
+    download_link = json_content["source"]["320"]
     print "Download link: \t\t" + download_link
     print ""
 
