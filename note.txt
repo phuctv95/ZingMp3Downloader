@@ -10,4 +10,5 @@ steps:
 	- get json source from api link, by id
 	- read json content
 	- get link download
-	- download
+	- if link download isn't available, exit
+	- else download
