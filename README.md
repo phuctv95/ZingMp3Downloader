@@ -1,7 +1,7 @@
 # ZingMp3 Downloader
 
 ## Instruction using on Linux:
-  1. Make sure you installed Python.
+  1. Make sure you installed Python 2.
   
   2. Run `installer.sh` will make program running everywhere (installer will link program to `/usr/local/bin`, so you need to type the sudo password for the linking).
   
